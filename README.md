@@ -1,0 +1,1 @@
+<h2>Horizontal News Ticker using Pure CSS</h2>
